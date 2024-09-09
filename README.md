@@ -123,4 +123,24 @@ POST /authors
   "fecha_nacimiento": "2001-08-20"
 }
 ```
+## Instalación y Configuración
+
+### Pasos para la instalación:
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/usuario/proyecto-biblioteca.git
+   ```
+2. Ingresar al proyecto:
+ ```bash
+  cd proyecto-biblioteca
+ ```
+3. Instalar dependencias:
+ ```bash
+ composer install
+ ```
+4. Levantar servidor:
+ ```bash
+ php yii serve
+ ```
 
