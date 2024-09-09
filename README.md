@@ -129,11 +129,11 @@ POST /authors
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-biblioteca.git
+    [ git clone https://github.com/usuario/proyecto-biblioteca.git](https://github.com/AnthonySantillan/Biblioteca-api.git)
    ```
 2. Ingresar al proyecto:
  ```bash
-  cd proyecto-biblioteca
+  cd biblioteca-api
  ```
 3. Instalar dependencias:
  ```bash
